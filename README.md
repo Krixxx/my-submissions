@@ -1,2 +1,1 @@
-# my-submissions
-Full Stack Open 2023
+This repo is for Kristjan's submissions.
